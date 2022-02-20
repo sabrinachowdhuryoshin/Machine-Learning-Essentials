@@ -1,6 +1,6 @@
 #### Introduction
 
-This is a practise repository of machine learning with Python.
+This is a practise repository of machine learning with python-3.
 
 #### Steps of Machine Learning:
 
